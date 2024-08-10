@@ -7,8 +7,8 @@ import praw
 app = Flask(__name__)
 
 # Reddit API credentials
-REDDIT_CLIENT_ID = '-__JHsApeRz0YEnrFp5DIQ'
-REDDIT_SECRET = 'LNEFiMqrSgonyx5DiPDyT6e78wpVyw'
+REDDIT_CLIENT_ID = 'xxx'
+REDDIT_SECRET = 'xxx'
 REDDIT_USER_AGENT = 'search4me69'
 
 # Initialize Reddit instance
